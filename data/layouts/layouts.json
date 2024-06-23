@@ -4410,6 +4410,26 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_POKE_ROUTE1",
+      "name": "NewPokeRoute1_Layout",
+      "width": 30,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/NewPokeRoute1/border.bin",
+      "blockdata_filepath": "data/layouts/NewPokeRoute1/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_CONTENT_HUB",
+      "name": "NewContentHub_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/NewContentHub/border.bin",
+      "blockdata_filepath": "data/layouts/NewContentHub/map.bin"
     }
   ]
 }
