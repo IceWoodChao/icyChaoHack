@@ -26,8 +26,8 @@ NewContentHub_MapScripts::
 
 	SCRIPT_SelfTrade_Text_IllTradeIfYouWant:
 		.string "I'm John Trademan!\p"
-		.string "I'll let you\n"
-		.string "trade with yourself\n"
+		.string "I'll let you"
+		.string "trade with yourself"
 		.string "for trade evos!$"
 
 	SCRIPT_SelfTrade_Text_ComeBack:
@@ -46,13 +46,13 @@ NewContentHub_MapScripts::
 		end
 	
 	SCRIPT_Explain_New_Routes_Text::
-		.string "You might notice\n"
+		.string "You might notice"
 		.string "new areas connected\n"
-		.string "to already existing\n"
+		.string "to already existing"
 		.string "areas.\p"
-		.string "These contain Pokemon\n"
+		.string "These contain Pokemon"
 		.string "not already in Gen 3.\p"
-		.string "Try to look out\n"
+		.string "Try to look out"
 		.string "for them!\p$"
 		
 	SCRIPT_Creator_Message::
@@ -65,7 +65,7 @@ NewContentHub_MapScripts::
 	SCRIPT_Creator_Message_Text::
 		.string "Hi!\n"
 		.string "I'm icyChao!\p"
-		.string "I made this hack\n"
+		.string "I made this hack"
 		.string "and I hope you\n"
 		.string "enjoy it as much"
 		.string "as I did making it!$"

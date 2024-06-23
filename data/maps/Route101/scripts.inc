@@ -266,7 +266,7 @@ Route101_Text_HelpMe:
 Route101_Text_PleaseHelp:
 	.string "yo dog\n"
 	.string "you want some pokemans\p"
-	.string "they in my bag\n"
+	.string "they in my bag"
 	.string "grab one$"
 
 Route101_Text_DontLeaveMe:
@@ -281,7 +281,7 @@ Route101_Text_YouSavedMe:
 	.string "your real for that\p"
 	.string "oh\p"
 	.string "yore {PLAYER}{KUN}\p"
-	.string "come to my lab\n"
+	.string "come to my lab"
 	.string "for more progress$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
